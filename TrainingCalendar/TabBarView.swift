@@ -35,6 +35,7 @@ struct TabBarView: View {
                 }
         }
         .background(Color.blackBack)
+        .accentColor(.white)
     }
     
     enum Tab {
